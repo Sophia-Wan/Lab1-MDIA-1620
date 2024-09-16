@@ -14,4 +14,4 @@ console.log("If I am not eating, I like to" + " " + spare +"! When I " + spare +
 
 spare = "napping"
 
-console.log("\x1b[36m","But I end up " + spare + " for over " + 3 + " hours at times.")
+console.log("\x1b[32m","But I end up " + spare + " for over " + 3 + " hours at times.");
